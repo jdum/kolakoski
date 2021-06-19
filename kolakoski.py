@@ -1,4 +1,7 @@
 #!/usr/bin/env python
+# Copyright 2021 Jérôme Dumonteil
+# Licence: MIT
+# Authors: jerome.dumonteil@gmail.com
 """Calculate Kolakoski Sequence and Kolakoski Constant
 
 Compute Kolakoski Sequence and check against known value of Kolakoski Constant.
